@@ -55,6 +55,26 @@ Example output:
 (2, 'Hello from Python App - Veda Task 5')
 
 ```
+
+## Project Repository Structure
+
+```text
+veda-task5-aws-rds/
+├── app.py
+├── requirements.txt
+├── README.md
+└── screenshots/
+    ├── task5-rds-connectivity-security-2.png
+    ├── task5-rds-database-backup-config-3.png
+    ├── task5-rds-database-available.png
+    ├── task5-rds-connection-details.png
+    ├── task5-app-ec2-running.png
+    ├── task5-rds-data-read-write-success.png
+    ├── task5-python-app-rds-success.png
+    ├── task5-app-security-group-final.png
+    └── task5-rds-security-group-final.png
+
+```
 ##Screenshots
 Screenshots documenting the implementation are included in the repository.
 
